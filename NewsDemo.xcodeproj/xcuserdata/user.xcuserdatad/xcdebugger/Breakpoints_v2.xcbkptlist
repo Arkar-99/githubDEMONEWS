@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D344EB4D-E91D-4D21-93A5-4CDE106E325B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6B347703-4451-481A-B516-B71C1D0411B2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsDemo/ViewController/CategoryViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "collectionView(_:didSelectItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0DC61DB6-DDC9-48C0-8356-8CF3AE0C5D1D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsDemo/ViewController/CategoryViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "fetchCategories()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0DC61DB6-DDC9-48C0-8356-8CF3AE0C5D1D - 6c58a8f870ed5c08"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;NewsDemo.Category&gt;) -&gt; () in NewsDemo.CategoryViewController.fetchCategories() -&gt; ()"
+                  moduleName = "NewsDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/ARKAR/iOS_Development/NewsDemo/NewsDemo/ViewController/CategoryViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "172">
+               </Location>
+               <Location
+                  uuid = "0DC61DB6-DDC9-48C0-8356-8CF3AE0C5D1D - 43e357d705551712"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Array&lt;NewsDemo.Category&gt;) -&gt; () in NewsDemo.CategoryViewController.fetchCategories() -&gt; ()"
+                  moduleName = "NewsDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/ARKAR/iOS_Development/NewsDemo/NewsDemo/ViewController/CategoryViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "0DC61DB6-DDC9-48C0-8356-8CF3AE0C5D1D - 43e357d705551750"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Array&lt;NewsDemo.Category&gt;) -&gt; () in NewsDemo.CategoryViewController.fetchCategories() -&gt; ()"
+                  moduleName = "NewsDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/ARKAR/iOS_Development/NewsDemo/NewsDemo/ViewController/CategoryViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
